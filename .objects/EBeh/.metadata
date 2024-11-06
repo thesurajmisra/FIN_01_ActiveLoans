@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome botsdna.comActiveLoans",
+  "Type": "App",
+  "Id": "EBehadfsvEyTHonnVRMfSQ",
+  "Reference": "ym29EnN3YEeNakbwXF47UA/EBehadfsvEyTHonnVRMfSQ",
+  "Created": "2024-10-06T14:36:50.6179274Z",
+  "Updated": "2024-10-06T14:36:50.6179274Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
